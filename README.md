@@ -1,5 +1,3 @@
-<h2 align="left">👋Jeswanth S<br>👨🏻‍💻Vellore Institute of Technology<br>👾ML Developer | Web Developer | Block Chain Developer | Competitive Coder</h2>
-
 ###
 
 <div align="center">
@@ -7,6 +5,9 @@
 </div>
 
 ###
+<h2 align="left">👋Jeswanth S<br>👨🏻‍💻Vellore Institute of Technology<br>👾ML Developer | Web Developer | Block Chain Developer | Competitive Coder</h2>
+
+
 
 ###
 
