@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jeswanth1212/jeswanth1212/main/assets/noo.gif" width="960" height="540" alt="Hacker Animation"/>
+  <img src="https://raw.githubusercontent.com/jeswanth1212/jeswanth1212/main/assets/noo.gif" width="960" height="400" alt="Hacker Animation"/>
 </div>
 
 ###
