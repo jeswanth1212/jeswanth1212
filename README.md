@@ -1,8 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jeswanth1212/jeswanth1212/main/assets/noo.gif" width="960" height="400" alt="Hacker Animation"/>
-</div>
 
 ###
 <h2 align="left">👋Jeswanth S<br>👨🏻‍💻Vellore Institute of Technology<br>👾ML Developer | Web Developer | Block Chain Developer | Competitive Coder</h2>
